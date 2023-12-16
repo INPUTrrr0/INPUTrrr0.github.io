@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented our work on HRL at the goal-conditional Reinforcement Learning at Neurips2023 in New Orleans. 
