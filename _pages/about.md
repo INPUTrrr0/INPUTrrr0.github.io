@@ -17,4 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Masters student at McGill University, allifilated with Mila and University of Toronto, co-supervised by Professor [Xujie Si](https://www.cs.toronto.edu/~six/) and [Clark Verbrugge](https://www.sable.mcgill.ca/~clump/). I graduated from McGill University with a double major in Philosophy and Computer Science. I worked with Professor [Jocylne Maclure](https://www.mcgill.ca/philosophy/jocelyn-maclure) on Algorithmic Fairness, discrimination and Interpretable AI. 
+I am a Masters student at McGill University, allifilated with Mila and currently visiting University of Toronto. I am co-supervised by Professor [Clark Verbrugge](https://www.sable.mcgill.ca/~clump/) and Professor [Xujie Si](https://www.cs.toronto.edu/~six/). I graduated from McGill University with a double major in Philosophy and Computer Science. I worked with Professor [Jocylne Maclure](https://www.mcgill.ca/philosophy/jocelyn-maclure) on Algorithmic Fairness, discrimination and Interpretable AI.  
+
+In my spare time, I enjoy playing the violin, skiing and painting. 
